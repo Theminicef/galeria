@@ -1,5 +1,5 @@
 # galeria
 
-Este proyecto es de Clase
+Este proyecto es de C
 
 #Dame dos de azucar 
