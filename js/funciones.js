@@ -14,7 +14,7 @@ enlaces.forEach( (enlace,indice) => {
 	});
 });
 
-// cerrar modal 
+// cerrr modal 
 modal.addEventListener("click",() => {
 	modal.classList.remove("visible");
 });
